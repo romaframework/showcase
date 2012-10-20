@@ -1,0 +1,14 @@
+
+ul.uitab {
+	margin-bottom: 0px;
+	border-spacing: 0px;
+}
+.ui-tabs-panel {
+	border: 1px solid #CCCCCC;
+	padding: 1em 8px;
+	border-radius: 5px;
+	background: #fff;
+	/* declare background color for container to avoid distorted fonts in IE while fading */
+}
+.tab-content .active {
+}
