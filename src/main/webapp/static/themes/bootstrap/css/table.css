@@ -1,0 +1,92 @@
+.table_selection {
+	
+}
+
+table.render_table_content thead tr .header,table.render_tableedit_content thead tr .header
+	{
+	
+}
+
+table.render_table_content thead tr .headerSortUp,table.render_tableedit_content thead tr .headerSortUp
+	{
+	
+}
+
+table.render_table_content thead tr .headerSortDown,table.render_tableedit_content thead tr .headerSortDown
+	{
+	
+}
+
+table.render_table_content thead tr .headerSortDown,table.tablesorter thead tr .headerSortUp,table.render_tableedit_content thead tr .headerSortDown,table.tablesorter thead tr .headerSortUp
+	{
+	
+}
+
+div.render_table,div.render_tableedit {
+	
+}
+
+.render_table>div,.render_tableedit>div {
+	
+}
+
+.render_table>div>div,.render_tableedit>div>div {
+	
+}
+
+table.render_table,table.render_tableedit {
+	
+}
+
+.render_table th,.render_tableedit th {
+	
+}
+
+.render_table td,.render_tableedit td {
+	
+}
+
+.render_table>tr:HOVER>td,.render_tableedit>tr:HOVER>td {
+	
+}
+
+.render_table>tr.odd:HOVER>td,.render_tableedit>tr.odd:HOVER>td {
+	
+}
+
+.render_table tr.odd td,.render_tableedit tr.odd td {
+	
+}
+
+button.table_actions_add,button.table_actions_edit,button.table_actions_view,button.table_actions_remove,button.table_actions_up,button.table_actions_down
+	{
+	
+}
+
+button.table_actions_add {
+	
+}
+
+button.table_actions_edit {
+	
+}
+
+button.table_actions_view {
+	
+}
+
+button.table_actions_remove {
+	
+}
+
+button.table_actions_up {
+	
+}
+
+button.table_actions_down {
+	
+}
+
+input.table_selection {
+	
+}

@@ -1,0 +1,33 @@
+/* 4 - CUSTOM PAGES */
+/* Login form */
+.box {
+	background-color: white;
+	border: 1px solid #D9D9D9;
+	border-radius: 10px 10px 10px 10px;
+	margin-top: 15px;
+	padding: 15px 30px;
+}
+/* ErrorMessageTextDetail */
+#screen_main_popups_popup_ErrorMessageTextDetail {
+	
+}
+
+#screen_main_popups_popup_ErrorMessageTextDetail textarea {
+	
+}
+
+#screen_main_popups_popup_ErrorMessageTextDetail_main_customMessage {
+	
+}
+
+#screen_main_popups_popup_ErrorMessageTextDetail_detail textarea {ì
+	
+}
+
+#screen_main_popups_popup_ErrorMessageTextDetail_main_actions {
+	
+}
+
+.invisible_field {
+	display: none;
+}
