@@ -10,6 +10,7 @@
 					<value>objectembedded</value>
 					<value>menu</value>
 					<value>vmenu</value>
+					<value>accordion</value>
 				</set>
 			</property>
 			<property name="pagesPath" value="/dynamic/view/"/>
